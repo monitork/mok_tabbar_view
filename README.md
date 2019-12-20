@@ -1,6 +1,6 @@
 # mok_tabbar_view
 
-A new Flutter package.
+This packages support make a TabBar View with Flutter This TabBar always align Left of AppBar .
 
 ## Getting Started
 
